@@ -1,4 +1,4 @@
-<img src="banner1.png" width="100%" alt="Banner de perfil">
+<img src="banner1.jpg" width="100%" alt="Banner de perfil">
 
 ## Hey, I'm Juan Daniel! 👋
 

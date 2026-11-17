@@ -1,3 +1,5 @@
+<img src="banner1.png" width="100%" alt="Banner de perfil">
+
 ## Hey, I'm Juan Daniel! 👋
 
 [![Linkedin Badge](https://img.shields.io/badge/-Juan%20Daniel%20Carrasco%20Alonso-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/juan-daniel-carrasco-alonso/)](https://www.linkedin.com/in/juan-daniel-carrasco-alonso/)  
@@ -7,7 +9,7 @@
 - I am a Full-Stack Developer & Process Automation Engineer from [Tlaxcala, Mexico](https://maps.app.goo.gl/Huamantla) 🇲🇽
 - Industrial IT Systems Engineer graduated from [BUAP](https://www.buap.mx/) 🎓
 - Former Process Digitalization Intern at **Audi México** & Full-Stack Cloud Developer at **LIEE-INAOE** 🚀
-- Visit my portfolio & projects under **[DA System](https://github.com/juan-daniel-carrasco-alonso)** 💻
+- Visit my portfolio & projects under **[DA System](https://danielalonsoportafoliov2.vercel.app/)** 💻
 - Techstack: `.py`, `.php`, `.js`, `.sql`, `.html`, `.css`, `CodeIgniter 4`, `MongoDB`, `Power Platform`, `SharePoint`, `Power BI`
 - Exploring Machine Learning, Data Analytics & Business Workflow Automation 💡
 
